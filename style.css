@@ -28,6 +28,10 @@ p, label {
     text-align: center;
     padding-bottom: 15px;
 }
+.container-wrapper .template{
+    width: 100%;
+    padding: 50px;
+}
 /* Tab menu styling*/
 input.tab-menu-radio {
     display: none;
